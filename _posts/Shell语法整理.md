@@ -1,3 +1,13 @@
+---
+layout: post
+title: Shell语法整理
+categories: Blog
+description: 我的 2018 年全年盘点
+keywords: 2018, 计划, 总结
+---
+
+
+
 Shell语法整理
 
 1. ls

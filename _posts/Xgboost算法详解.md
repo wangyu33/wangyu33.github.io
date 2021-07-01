@@ -1,3 +1,13 @@
+---
+layout: post
+title: Xgboost算法详解
+categories: Blog
+description: 我的 2018 年全年盘点
+keywords: 2018, 计划, 总结
+---
+
+
+
 # Xgboost算法详解
 
 #### 0. 调参顺序
