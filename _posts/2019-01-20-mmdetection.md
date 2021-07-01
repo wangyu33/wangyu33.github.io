@@ -1,3 +1,13 @@
+---
+layout: post
+title: 我mmdetection 商汤框架
+categories: Blog
+description: 我的 2018 年全年盘点
+keywords: 2018, 计划, 总结
+---
+
+
+
 # mmdetection 商汤框架
 
 backbone：Resnet mobilenet darknet
