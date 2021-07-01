@@ -25,7 +25,7 @@ components:
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
+        enabled: true
         start_date: 2020-05-03
     # My Popular Repositories
     side_bar_repo:
@@ -37,7 +37,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
+        enabled: false
         image_alt: 闷骚的程序员
 # 压缩页面内容
 compress_html:
@@ -52,9 +52,9 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: wangyu33
+location: Beijing, China
+email: wangyu2019@ia.ac.cn
 
 # ---------------- #
 #    Navigation    #
@@ -131,17 +131,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: wangyu33
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: b1619c4fb0b49d2b100a
+        client_secret: 800602160818b60223d269e6cd79b5e515dfc40d
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: wangyu33
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: b1619c4fb0b49d2b100a
+    clientSecret: 800602160818b60223d269e6cd79b5e515dfc40d
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
